@@ -1,16 +1,19 @@
 ---
 layout: default
+title: Andrew Marron
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Andrew Marron</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Hello, I'm Andrew Marron</h1>
-  <p>Performer, writer, and musician — welcome to my site.</p>
-</body>
-</html>
+# Andrew Marron
+_Performer · Writer · Musician_
+
+---
+
+## Hello, I'm Andrew Marron
+
+I tell stories through music, words, and performance — blending humour, honesty, and lived experience.
+
+This site is home to my creative projects, live storytelling, and writing updates.
+
+---
+
+© 2026 Andrew Marron
