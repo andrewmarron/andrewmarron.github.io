@@ -3,9 +3,6 @@ layout: default
 title: Andrew Marron
 ---
 
-# Andrew Marron
-_Performer · Writer · Musician_
-
 ---
 
 ## Hello, I'm Andrew Marron
