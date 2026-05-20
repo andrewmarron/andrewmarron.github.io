@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: Andrew Marron
 description: Performer, writer, musician
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
