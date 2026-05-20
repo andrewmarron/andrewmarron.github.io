@@ -9,6 +9,13 @@ body {
   color: #2e2e2e;
 }
 
+/* Fix the dark grey coming from Slate */
+dl, dd {
+  color: #A3A7B2;
+  margin: 0;
+  padding: 0;
+}
+
 p {
   color: #A3A7B2;
 }
