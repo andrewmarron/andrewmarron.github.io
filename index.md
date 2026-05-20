@@ -11,7 +11,7 @@ This site is home to my creative projects, live storytelling, and writing update
 
 ## Read an excerpt from *How To Not Make It In Music*
 
-<a href="/assets/pdfs/How To Not Make It in Music excerpt.pdf">
+<a href="/assets/pdfs/How_To_Not_Make_It_in_Music_excerpt.pdf">
   <img 
     src="/assets/img/HTNMIIM.png" 
     alt="Excerpt from How To Not Make It In Music"
