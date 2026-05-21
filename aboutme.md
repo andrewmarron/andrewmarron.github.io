@@ -7,7 +7,7 @@ title: About Me
 
 Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. When he was five he was introduced to the guitar by his dad and pretty much sucked at it from the beginning. As he got older he put the guitar away until he discovered rock and heavy metal, inspired to pick the guitar back up and (attempt to) play his favourite tunes. Since then he has written many songs, been in countless bands and has songs on streaming services, YouTube and other places that people ignore.
 
-In 2025 Andrew decided to put his collection of stories and personal feelings about the unsigned music scene in a book *"How To Not Make It in Music"* since...well...he's never made it in music.
+In 2025 Andrew decided to put his collection of stories and personal feelings about the unsigned music scene in a book <span style="color:##fdfdfd;font-style:italic;">"How To Not Make It in Music"</span> since...well...he's never made it in music.
 
 Despite not being a famous rockstar, he still writes and records music and now enjoys writing books, that maybe more people will read than listen to his music... <span style="color:#A3A7B2;font-style:italic;">maybe</span>.
 
