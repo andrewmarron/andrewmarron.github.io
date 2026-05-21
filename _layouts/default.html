@@ -98,5 +98,27 @@
       {{ content | markdownify }}
     </section>
 
+{% if page.comments %}
+<h2 style="color:#fff; text-align:center; margin-top:60px;">
+  Leave a Comment
+</h2>
+
+  <!-- Disqus embed -->
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+    this.page.url = window.location.href;
+    this.page.identifier = window.location.pathname;
+  };
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://andrewmarron.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the comments.</noscript>
+{% endif %}
+
   </body>
 </html>
