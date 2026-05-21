@@ -9,7 +9,7 @@ Born amongst the smog in Teesside, England, Andrew spent most of his childhood p
 
 In 2025 Andrew decided to put his collection of stories and personal feelings about the unsigned music scene in a book *"How To Not Make It in Music"* since...well...he's never made it in music.
 
-Despite not being a famous rockstar, he still writes and records music and now enjoys writing books, that maybe more people will read than listen to his music *(maybe)*.
+Despite not being a famous rockstar, he still writes and records music and now enjoys writing books, that maybe more people will read than listen to his music <span style="color:#ccc;font-style:italic;">maybe</span>.
 
 He also enjoys making his own beer and wine and has been doing so for over 15+ years.
 
