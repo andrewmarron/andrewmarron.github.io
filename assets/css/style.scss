@@ -126,14 +126,13 @@ body {
 }
 
 /* Restore main content margins */
-.main-content {
-  margin: 0 auto;
-  max-width: 800px;
-  padding: 40px;
+  .wrapper, section {
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 /* Ensure Disqus doesn’t collapse layout */
 #disqus_thread {
-  margin: 40px auto;
-  max-width: 800px;
+  padding-left: 5%;
+  padding-right: 5%;
 }
