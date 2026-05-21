@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. When he was five he was introduced to the guitar by his dad and pretty much sucked at it from the beginning. As he got older he put the guitar away until he discovered rock and heavy metal, inspired to pick the guitar back up and (attempt to) play his favourite tunes. Since then he has written many songs and been in countless bands.
+Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. When he was five he was introduced to the guitar by his dad and pretty much sucked at it from the beginning. As he got older he put the guitar away until he discovered rock and heavy metal, inspired to pick the guitar back up and (attempt to) play his favourite tunes. Since then he has written many songs, been in countless bands and has songs on streaming services, YouTube and other places that people ignore.
 
 In 2025 Andrew decided to put his collection of stories and personal feelings about the unsigned music scene in a book *"How To Not Make It in Music"* since...well...he's never made it in music.
 
@@ -23,7 +23,6 @@ He still lives in Teesside with his family and has a day job that pays the bills
 - Performer
 - Storyteller
 - Homebrewer *(although that's just for me)*
-
 
 ---
 
@@ -44,3 +43,6 @@ If you want to add a headshot later, drop an image into `/assets/img/` and use:
 ---
 
 -->
+
+
+© 2026 Andrew Marron
