@@ -1,4 +1,4 @@
-\---
+---
 
 layout: default
 
@@ -6,7 +6,7 @@ title: Excerpt – How To Not Make It In Music
 
 comments: true
 
-\---
+---
 
 
 

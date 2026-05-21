@@ -124,3 +124,16 @@ body {
   background: #333 !important;
   border-color: #888 !important;
 }
+
+/* Restore main content margins */
+.main-content {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px;
+}
+
+/* Ensure Disqus doesn’t collapse layout */
+#disqus_thread {
+  margin: 40px auto;
+  max-width: 800px;
+}
