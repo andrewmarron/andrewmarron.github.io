@@ -48,6 +48,13 @@ p {
 }
 
 
+/* Make all italic text match normal paragraph colour */
+.main-content em,
+.main-content i {
+  color: inherit; /* uses the same colour as surrounding text */
+  font-style: italic;
+}
+
 
 /* Make section titles pop */
 .main-content h1, .main-content h2 {
