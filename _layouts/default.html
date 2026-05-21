@@ -55,7 +55,7 @@
   </div>
 </header>
 
-<nav style="
+<nav id="sitenav" style="
   width: 100%;
   background: #111;
   border-bottom: 6px solid white;
@@ -119,6 +119,20 @@
   </script>
   <noscript>Please enable JavaScript to view the comments.</noscript>
 {% endif %}
+
+<script>
+document.getElementById("back-to-top").addEventListener("click", function() {
+  const nav = document.getElementById("sitenav");
+  const navPosition = nav.offsetTop;
+
+  window.scrollTo({ 
+    top: navPosition, 
+    behavior: 'smooth' 
+  });
+});
+</script>
+
+<button id="back-to-top">Back to navigation ↑</button>
 
   </body>
 </html>
