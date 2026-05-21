@@ -48,5 +48,3 @@ title: Excerpt – How To Not Make It In Music
 
 !\[Page 18](/assets/pdfs/HNTMIIM/18.png)
 
-!\[Page 19](/assets/pdfs/HNTMIIM/19.png)
-
