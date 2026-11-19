@@ -5,6 +5,10 @@ title: About Me
 
 # About Me
 
+I began writing when I hit a period of depression in my mid 40's. One day I just opened Microsoft Word and the words started pouring out. I poured my entire journey of being in an unsigned band into my first manuscript and have made a copy of one of my chapters available on this site.
+
+When I finished the book, I had the writing bug. I needed more. The ideas come to me faster than I can put down and eventually I'll get them all down and published for you all to read. In the meantime please enjoy the short story for signing up to my mailing list :)
+
 Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. At five, his dad introduced him to the guitar, and he pretty much sucked at it from the beginning, eventually putting it away as he became a teenager. Later, he discovered rock and heavy metal, which inspired him to pick up the guitar again and (attempt to) play his favourite tunes. Since 1998, he has written numerous songs, played in various bands, and released music on streaming services, YouTube, and other platforms that people ignore.
 
 In 2025, Andrew decided to put his stories and feelings about the unsigned music scene in a book. He called it <span style="color:#fdfdfd;font-style:italic;">"How To Not Make It in Music"</span> since...well...he's never made it in music.
@@ -33,7 +37,7 @@ He still lives in Teesside with his family and has a day job that pays the bills
 
 Andrew says he's influenced by most genres of music (except rap and reggae), but mainly rock, heavy rock and metal (and sub genres of each - there are a lot you know?!). The artists that have had a profound effect on him are Dream Theater, Iron Maiden, Steve Vai, Van Halen, Yngwie Malmsteen, Guns 'n' Roses and the hair metal of the 1980's (Poison, Motley Crue etc)
 
-From a writing perspective, he enjoys humour and fantasy with The Rivers of London series by Ben Aaronovitch being one of his favourites.
+From a writing and reading perspective, he enjoys humour and fantasy with The Rivers of London series by Ben Aaronovitch being one of his favourites.
 
 
 ---

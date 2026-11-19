@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Andrew Marron
+title: Andy Marron
 ---
 
-# Hello, I'm Andrew Marron
+# Hello, I'm Andy Marron
 
-I tell stories through music, words, and performance — blending humour, honesty, and lived experience.
+I tell stories through words and occassionally music — blending humour, honesty, and lived experience.
 
 This site is home to my creative projects, live storytelling, and writing updates.
 
