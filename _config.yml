@@ -1,6 +1,10 @@
 theme: jekyll-theme-slate
 title: Andy Marron
 description: Writer. Storyteller.
+url: "https://andrewmarron.github.io"
+
+plugins:
+  - jekyll-sitemap
 
 markdown: kramdown
 kramdown:
