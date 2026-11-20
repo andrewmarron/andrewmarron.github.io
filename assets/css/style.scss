@@ -76,6 +76,34 @@ blockquote p:last-child {
   margin-bottom: 0;
 }
 
+/* Full-bleed header banner fix */
+#header_wrap {
+  position: relative;
+  overflow: hidden;
+}
+
+#header_wrap header {
+  position: relative;
+  z-index: 2;
+}
+
+/* Remove Slate's default image border/shadow and force full width */
+#header_wrap img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  object-fit: cover;
+  object-position: center;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  z-index: 1;
+}
+
 /* ============================
    DISQUS COMMENT SECTION STYLE
    ============================ */
