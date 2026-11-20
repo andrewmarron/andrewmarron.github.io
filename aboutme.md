@@ -9,7 +9,7 @@ description: Biography of Andy Marron. A Teesside sci-fi, urban fantasy, and com
 
 Andy Marron is a sci-fi, urban fantasy and comedy author writing stories that put people or creatures in ridiculous situations. He works loosely on the premise "What if this thing was put in this situation?" Based on a concept made famous by Stephen King.
 
-His love of comedy was born through decades of British TV sitcoms such as Red Dwarf, Blackadder and The Thick of It. His love of books comes largely from books such as The HitchHikers Guide To The Galaxy and Rivers of London series. He also loves the Abhorsen series, His Dark Materials and Terry Pratchett books. He also enjoys reading sport and music biographies.
+His love of comedy was born through decades of British TV sitcoms such as Red Dwarf, Blackadder and The Thick of It. His love of books comes largely from books such as The HitchHikers Guide To The Galaxy and Rivers of London series. Other books he loves are the Abhorsen series, His Dark Materials, the Dungeon Crawler Carl series and Terry Pratchett books. He also enjoys reading sport and music biographies.
 
 He began writing when he hit a period of depression in his mid 40's. One day he opened Microsoft Word and the words started tumbling out. He detailed his entire journey of being in an unsigned band into his first manuscript with one of his chapters available on this site.
 
@@ -41,7 +41,7 @@ Born amongst the smog in Teesside, England, Andrew spent most of his childhood p
 
 In 2025, Andrew decided to put his stories and feelings about the unsigned music scene in a book. He called it <span style="color:#fdfdfd;font-style:italic;">"How To Not Make It in Music"</span> since...well...he's never made it in music.
 
-Despite not being a famous rockstar, he still writes and records music and now enjoys writing books.
+Despite not being a famous rockstar, he still writes and records music aswell as writing books.
 
 He also enjoys making his own beer and wine and has been doing so for over 15+ years.
 
