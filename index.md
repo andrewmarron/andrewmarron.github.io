@@ -14,7 +14,7 @@ He writes Sci-fi, Urban Fantasy and comedy books — blending humour, honesty, a
 
 This site is home to his creative projects and writing updates.
 
-> **Free Short Story: The Hockenspier Chronicles - Count Vladsivic**
+> **Free Short Story: The Hockenspier Chronicles - Count Vladisivic**
 >
 > A 537-year-old vampire finds a grey hair and ends up going through a mid-life crisis before eventually seeking professional help.
 > Sign up to my newsletter for the free story.

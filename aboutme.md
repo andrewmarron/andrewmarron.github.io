@@ -1,13 +1,15 @@
 ---
 layout: default
 title: About Andy Marron
+permalink: /aboutme/
+description: Biography of Andy Marron. A Teesside sci-fi, urban fantasy, and comedy author and musician.
 ---
 
-# About Me
+## About Me
 
 Andy Marron is a sci-fi, urban fantasy and comedy author writing stories that put people or creatures in ridiculous situations. He works loosely on the premise "What if this thing was put in this situation?" Based on a concept made famous by Stephen King.
 
-His love of comedy was born through decades of British TV sitcoms such as Red Dwarf, Blackadder and The Thick of It. His love of books comes largely from The HitchHikers Guide To The Galaxy and Rivers of London series.
+His love of comedy was born through decades of British TV sitcoms such as Red Dwarf, Blackadder and The Thick of It. His love of books comes largely from books such as The HitchHikers Guide To The Galaxy and Rivers of London series. He also loves the Abhorsen series, His Dark Materials and Terry Pratchett books. He also enjoys reading sport and music biographies.
 
 He began writing when he hit a period of depression in his mid 40's. One day he opened Microsoft Word and the words started tumbling out. He detailed his entire journey of being in an unsigned band into his first manuscript with one of his chapters available on this site.
 
@@ -19,7 +21,7 @@ When he finished the book, he had the writing bug. He needed more. So far he has
 
 ## How to contact me
 
-Please sign up for my newsletter and mailing list and get a free short story as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
+Please sign up for my newsletter and mailing list and get a free short story(The Hockenspier Chronicles - Count Vladisivic) as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
 
 I read every message and email, so please drop me a line for a chat, or any queries.
 
