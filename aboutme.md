@@ -1,43 +1,50 @@
 ---
 layout: default
-title: About Me
+title: About Andy Marron
 ---
 
 # About Me
 
-I began writing when I hit a period of depression in my mid 40's. One day I just opened Microsoft Word and the words started pouring out. I poured my entire journey of being in an unsigned band into my first manuscript and have made a copy of one of my chapters available on this site.
+Andy Marron is a sci-fi, urban fantasy and comedy author writing stories that put people or creatures in ridiculous situations. He works loosely on the premise "What if this thing was put in this situation?" Based on a concept made famous by Stephen King.
 
-When I finished the book, I had the writing bug. I needed more. The ideas come to me faster than I can put down and eventually I'll get them all down and published for you all to read. In the meantime please enjoy the short story for signing up to my mailing list :)
+His love of comedy was born through decades of British TV sitcoms such as Red Dwarf, Blackadder and The Thick of It. His love of books comes largely from The HitchHikers Guide To The Galaxy and Rivers of London series.
 
-Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. At five, his dad introduced him to the guitar, and he pretty much sucked at it from the beginning, eventually putting it away as he became a teenager. Later, he discovered rock and heavy metal, which inspired him to pick up the guitar again and (attempt to) play his favourite tunes. Since 1998, he has written numerous songs, played in various bands, and released music on streaming services, YouTube, and other platforms that people ignore.
+He began writing when he hit a period of depression in his mid 40's. One day he opened Microsoft Word and the words started tumbling out. He detailed his entire journey of being in an unsigned band into his first manuscript with one of his chapters available on this site.
 
-In 2025, Andrew decided to put his stories and feelings about the unsigned music scene in a book. He called it <span style="color:#fdfdfd;font-style:italic;">"How To Not Make It in Music"</span> since...well...he's never made it in music.
+When he finished the book, he had the writing bug. He needed more. So far he has over twenty different book ideas that will become published works in the coming years.
 
-Despite not being a famous rockstar, he still writes and records music and now enjoys writing books, that maybe more people will read than listen to his music... *maybe*.
-
-He also enjoys making his own beer and wine and has been doing so for over 15+ years.
-
-He still lives in Teesside with his family and has a day job that pays the bills.
 
 ---
 
 
-## What I Do
+## How to contact me
 
-- Writer
-- Performer
-- Storyteller
-- Homebrewer *(although that's just for me)*
+Please sign up for my newsletter and mailing list and get a free short story as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
 
+I read every message and email, so please drop me a line for a chat, or any queries.
+
+email - 
+
+Social media
+
+* [Follow Andy Marron on TikTok](https://www.tiktok.com/@andy.marron)
+* [Follow Andy Marron on Instagram](https://www.instagram.com/@andy_marron_author)
 
 ---
 
 
 ## A Little More About Me
 
-Andrew says he's influenced by most genres of music (except rap and reggae), but mainly rock, heavy rock and metal (and sub genres of each - there are a lot you know?!). The artists that have had a profound effect on him are Dream Theater, Iron Maiden, Steve Vai, Van Halen, Yngwie Malmsteen, Guns 'n' Roses and the hair metal of the 1980's (Poison, Motley Crue etc)
+Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. At five, his dad introduced him to the guitar, and he pretty much sucked at it from the beginning, eventually putting it away as he became a teenager. Later, he discovered rock and heavy metal, which inspired him to pick up the guitar again and (attempt to) play his favourite tunes. Since 1998, he has written numerous songs, played in various bands, and released music on streaming services, YouTube, and other platforms that people ignore.
 
-From a writing and reading perspective, he enjoys humour and fantasy with The Rivers of London series by Ben Aaronovitch being one of his favourites.
+In 2025, Andrew decided to put his stories and feelings about the unsigned music scene in a book. He called it <span style="color:#fdfdfd;font-style:italic;">"How To Not Make It in Music"</span> since...well...he's never made it in music.
+
+Despite not being a famous rockstar, he still writes and records music and now enjoys writing books.
+
+He also enjoys making his own beer and wine and has been doing so for over 15+ years.
+
+He still lives in Teesside with his family and has a day job that pays the bills.
+
 
 
 ---

@@ -1,11 +1,65 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
-  line-height: 1.6;
-  color: #333;
+  margin: 45px auto;
+  padding: 0 24px;
+  line-height: 1.65;
+  font-size: 17px;
+  color: #2d3748;
+  background-color: #fafafa; /* Softer off-white background than harsh pure white */
 }
+
+
+/* sharp, tight headings */
+h1, h2, h3 {
+  color: #111827;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
 h1 {
-  color: #222;
+  font-size: 2.25rem;
+  margin-bottom: 0.4rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #e5e7eb; /* Subtle structural divider */
+}
+
+/* Clean, modern links */
+a {
+  color: #1d4ed8; /* Deep royal blue — swap this hex code for your genre's vibe */
+  text-decoration: none;
+  border-bottom: 1px solid #93c5fd;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+a:hover {
+  color: #1e3a8a;
+  border-bottom-color: #1e3a8a;
+}
+
+/* Circular, framed author headshot */
+img {
+  max-width: 140px;
+  border-radius: 50%;
+  border: 3px solid #e5e7eb;
+  margin-bottom: 1rem;
+}
+
+/* Highlight box for your Reader Magnet */
+blockquote {
+  background-color: #ffffff;
+  border-left: 4px solid #1d4ed8;
+  margin: 1.8rem 0;
+  padding: 1.2rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
 }

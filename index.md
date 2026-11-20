@@ -7,7 +7,8 @@ title: Andy Marron
 
 I tell stories through words and occassionally music — blending humour, honesty, and lived experience.
 
-This site is home to my creative projects, live storytelling, and writing updates.
+This site is home to my creative projects and writing updates.
+
 
 ## Read an excerpt from *How To Not Make It In Music*
 
