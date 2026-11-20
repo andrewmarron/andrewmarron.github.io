@@ -28,7 +28,7 @@ email -
 Social media
 
 * [Follow Andy Marron on TikTok](https://www.tiktok.com/@andy.marron)
-* [Follow Andy Marron on Instagram](https://www.instagram.com/@andy_marron_author)
+* [Follow Andy Marron on Instagram](https://www.instagram.com/andy_marron_author)
 
 ---
 
