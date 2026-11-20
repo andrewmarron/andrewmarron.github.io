@@ -76,32 +76,26 @@ blockquote p:last-child {
   margin-bottom: 0;
 }
 
-/* Full-bleed header banner fix */
-#header_wrap {
-  position: relative;
+/* ============================
+   FULL-BLEED HEADER BANNER FIX
+   ============================ */
+header {
+  width: 100%;
   overflow: hidden;
 }
 
-#header_wrap header {
-  position: relative;
-  z-index: 2;
-}
-
-/* Remove Slate's default image border/shadow and force full width */
-#header_wrap img {
-  position: absolute;
-  top: 0;
-  left: 0;
+header img {
+  display: block !important;
   width: 100% !important;
-  height: 100% !important;
-  max-width: none !important;
-  object-fit: cover;
-  object-position: center;
+  max-width: 100% !important;
+  height: clamp(220px, 24vw, 350px) !important;
+  object-fit: cover !important;
+  object-position: center !important;
   border: none !important;
   box-shadow: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  z-index: 1;
+  background: transparent !important;
 }
 
 /* ============================
