@@ -7,7 +7,7 @@ description: Biography of Andy Marron. A Teesside sci-fi, urban fantasy, and com
 
 ## About Me
 
-<img src="/assets/img/Andy_Marron_photo.png" alt="Andy Marron, Teesside sci-fi, urban fantasy, and comedy author and musician" style="display: block; max-width: 260px; width: 100%; height: auto; margin: 0 auto 1.5rem auto; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+<img src="/assets/img/Andy_Marron_photo.jpg" alt="Andy Marron, Teesside sci-fi, urban fantasy, and comedy author and musician" style="float: left; max-width: 220px; width: 100%; height: auto; margin: 0.25rem 1.5rem 1rem 0; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
 
 Andy Marron is a sci-fi, urban fantasy and comedy author writing stories that put people or creatures in ridiculous situations. He works loosely on the premise "What if this thing was put in this situation?" Based on a concept made famous by Stephen King.
 
