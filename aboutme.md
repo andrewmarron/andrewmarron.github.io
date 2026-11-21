@@ -7,7 +7,7 @@ description: Biography of Andy Marron. A Teesside sci-fi, urban fantasy, and com
 
 ## About Me
 
-<img src="/assets/img/Andy_Marron_photo.jpg" alt="Andy Marron, Teesside sci-fi, urban fantasy, and comedy author and musician" style="float: left; max-width: 220px; width: 100%; height: auto; margin: 0.25rem 1.5rem 1rem 0; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+<img src="/assets/img/Andy_Marron_photo.png" alt="Andy Marron, Teesside sci-fi, urban fantasy, and comedy author and musician" style="float: left; max-width: 220px; width: 100%; height: auto; margin: 0.25rem 1.5rem 1rem 0; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
 
 Andy Marron is a sci-fi, urban fantasy and comedy author writing stories that put people or creatures in ridiculous situations. He works loosely on the premise "What if this thing was put in this situation?" Based on a concept made famous by Stephen King.
 
@@ -17,13 +17,9 @@ He began writing when he hit a period of depression in his mid 40's. One day he 
 
 When he finished the book, he had the writing bug. He needed more. So far he has over twenty different book ideas that will become published works in the coming years.
 
-<hr style="clear: both; visibility: hidden; margin: 0.5rem 0;">
+<hr style="clear: both; margin: 2rem 0 1.5rem 0;">
 
----
-
-<h2 style="clear: both;">How to contact me
-</h2>
-
+<h2 style="clear: both; margin: 0 0 1.5rem 0;">How to contact me</h2>
 
 Please sign up for my newsletter and mailing list and get a free short story (The Hockenspier Chronicles - Count Vladisivic) as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
 
@@ -36,8 +32,7 @@ Social media
 * [Follow Andy Marron on TikTok](https://www.tiktok.com/@andy.marron)
 * [Follow Andy Marron on Instagram](https://www.instagram.com/andy_marron_author)
 
----
-
+<hr style="margin: 2rem 0;">
 
 ### A Little More About Me
 
@@ -51,6 +46,6 @@ He also enjoys making his own beer and wine and has been doing so for over 15+ y
 
 He still lives in Teesside with his family and has a day job that pays the bills.
 
----
+<hr style="margin: 2rem 0;">
 
 © 2026 Andrew Marron
