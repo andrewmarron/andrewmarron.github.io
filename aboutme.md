@@ -17,7 +17,8 @@ He began writing when he hit a period of depression in his mid 40's. One day he 
 
 When he finished the book, he had the writing bug. He needed more. So far he has over twenty different book ideas that will become published works in the coming years.
 
-<hr style="clear: both; margin: 1rem 0 1.5rem 0;">
+
+<hr style="margin: 1rem 0;">
 
 <h2 style="clear: both; margin: 0 0 1.5rem 0;">How to contact me</h2>
 
