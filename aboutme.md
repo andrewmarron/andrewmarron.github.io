@@ -17,11 +17,11 @@ He began writing when he hit a period of depression in his mid 40's. One day he 
 
 When he finished the book, he had the writing bug. He needed more. So far he has over twenty different book ideas that will become published works in the coming years.
 
+<hr style="clear: both; visibility: hidden; margin: 0.5rem 0;">
 
 ---
 
-
-## How to contact me
+<h2 style="clear: both;">How to contact me</h2>
 
 Please sign up for my newsletter and mailing list and get a free short story (The Hockenspier Chronicles - Count Vladisivic) as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
 
@@ -36,7 +36,6 @@ Social media
 
 ---
 
-
 ### A Little More About Me
 
 Born amongst the smog in Teesside, England, Andrew spent most of his childhood playing football and computer games. At five, his dad introduced him to the guitar, and he pretty much sucked at it from the beginning, eventually putting it away as he became a teenager. Later, he discovered rock and heavy metal, which inspired him to pick up the guitar again and (attempt to) play his favourite tunes. Since 1998, he has written numerous songs, played in various bands, and released music on streaming services, YouTube, and other platforms that people ignore.
@@ -50,7 +49,5 @@ He also enjoys making his own beer and wine and has been doing so for over 15+ y
 He still lives in Teesside with his family and has a day job that pays the bills.
 
 ---
-
-
 
 © 2026 Andrew Marron
