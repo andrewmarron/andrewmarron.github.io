@@ -21,7 +21,9 @@ When he finished the book, he had the writing bug. He needed more. So far he has
 
 ---
 
-<h2 style="clear: both;">How to contact me</h2>
+<h2 style="clear: both;">How to contact me
+</h2>
+
 
 Please sign up for my newsletter and mailing list and get a free short story (The Hockenspier Chronicles - Count Vladisivic) as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
 
@@ -35,6 +37,7 @@ Social media
 * [Follow Andy Marron on Instagram](https://www.instagram.com/andy_marron_author)
 
 ---
+
 
 ### A Little More About Me
 
