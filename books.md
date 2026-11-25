@@ -31,8 +31,7 @@ description: Explore sci-fi, urban fantasy, and comedy books by Andy Marron, inc
 <p>When Ed Thompson crash lands on Planet 47-B, he has one job: Make this the new Earth.</p>
 <p>With an inventory that rivals most budget supermarkets, Ed certainly has his work cut out, but he has no doubt he's the best man for the job.</p>
 <p>What Ed doesn't know is that he's being watched. And judged. Every action is being critiqued by the harshest critic he could imagine.</p>
-<p>Will Ed succeed in his mission to tame the beige landscape and call it "Home", or will he die of over-indulgence of tinned spaghetti hoops?</p>	
-</p>
+<p>Will Ed succeed in his mission to tame the beige landscape and call it "Home", or will he die of over-indulgence of tinned spaghetti hoops?</p>
 <p><a href="/contact/">Join the newsletter for release updates →</a></p>
 </div>
 </div>
