@@ -22,19 +22,6 @@ When he finished the book, he sat down and craved more. He had the writing bug. 
 
 <hr style="clear: both; margin: 1.5rem 0;">
 
-<h2 style="clear: both; margin: 1.5rem 0;">How to contact me</h2>
-
-Please sign up for my newsletter and mailing list and get a free short story (The Hockenspier Chronicles - Count Vladisivic) as a reward. It's about a vampire going through a mid-life crisis at the age of 537 and seeking professional help.
-
-I read every message and email, so please drop me a line for a chat, or any queries.
-
-email - 
-
-Social media
-
-* [Follow Andy Marron on TikTok](https://www.tiktok.com/@andy.marron)
-* [Follow Andy Marron on Instagram](https://www.instagram.com/andy_marron_author)
-
 <hr style="margin: 2rem 0;">
 
 ### A Little More About Me
