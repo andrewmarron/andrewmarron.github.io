@@ -20,8 +20,6 @@ He began writing when he hit a period of depression in his mid-40's, when one da
 When he finished the book, he sat down and craved more. He had the writing bug. However, he moved away from non-fiction (since his life wasn't interesting enough for two biographies) and came up with the premise for Diary of a Failed Colonist, his first ever published book. So far he has over twenty different book ideas that will become published works in the coming years.
 
 
-<hr style="clear: both; margin: 1.5rem 0;">
-
 <hr style="margin: 2rem 0;">
 
 ### A Little More About Me
