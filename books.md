@@ -9,7 +9,7 @@ description: Explore sci-fi, urban fantasy, and comedy books by Andy Marron, inc
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.75rem; margin: 1.5rem 0 2.5rem 0;">
 <div style="flex: 0 0 200px; max-width: 100%;">
-<img src="/assets/img/count_vladisivic _cover.jpg" alt="The Hockenspier Chronicles – Count Vladisivic  book cover" style="width: 100%; height: auto; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
+<img src="/assets/img/count_vladisivic_cover.jpg" alt="The Hockenspier Chronicles – Count Vladisivic  book cover" style="width: 100%; height: auto; border-radius: 8px; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
 </div>
 <div style="flex: 1 1 300px;">
 <h3 style="margin-top: 0;">The Hockenspier Chronicles – Count Vladisivic </h3>
