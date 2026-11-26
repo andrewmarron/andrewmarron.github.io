@@ -9,7 +9,7 @@ description: Get in touch with sci-fi, urban fantasy, and comedy author Andy Mar
 
 I read every message and email, so whether you want to chat about sci-fi, urban fantasy, bad gigs, or have a question about my books, please drop me a line.
 
-* **Email:** *(Add your author email here once your custom domain inbox is set up)*
+Email me directly at <a href="mailto:andymarronauthor@gmail.com">andymarronauthor@gmail.com</a>
 
 <hr style="margin: 2rem 0;">
 
@@ -25,7 +25,7 @@ It's about a 537-year-old vampire going through a mid-life crisis and seeking pr
 
 ## Social Media
 
-Come say hello or follow along with the day-to-day writing updates:
+Come say hello or follow along for writing updates:
 
 * [Follow Andy Marron on TikTok](https://www.tiktok.com/@andy.marron)
 * [Follow Andy Marron on Instagram](https://www.instagram.com/andy_marron_author)
