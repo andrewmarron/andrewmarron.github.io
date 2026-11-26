@@ -16,7 +16,7 @@ This site is home to his creative projects and writing updates.
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.25rem; margin: 1.5rem 0 2rem 0; padding: 1rem 1.25rem; border-left: 4px solid #fff;">
 <div style="flex: 0 0 110px; max-width: 100%;">
-<img src="/assets/img/count_vladsivic_cover.jpg" alt="The Hockenspier Chronicles – Case #1: Count Vladisivic book cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.45);">
+<img src="/assets/img/count_vladisivic_cover.jpg" alt="The Hockenspier Chronicles – Case #1: Count Vladisivic book cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.45);">
 </div>
 <div style="flex: 1 1 240px;">
 <p style="margin-top: 0;"><strong>Free Short Story: The Hockenspier Chronicles - Count Vladisivic</strong></p>
