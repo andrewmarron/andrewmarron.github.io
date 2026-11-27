@@ -14,12 +14,17 @@ He writes Sci-fi, Urban Fantasy and comedy books — blending humour, honesty, a
 
 This site is home to his creative projects and writing updates.
 
-> **Free Short Story: The Hockenspier Chronicles - Count Vladisivic**
-> img src="/assets/img/count_vladisivic_cover.jpg" alt="The Hockenspier Chronicles – Case #1: Count Vladisivic book cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.45);">
-> A 537-year-old vampire finds a grey hair and ends up going through a mid-life crisis before eventually seeking professional help.
-> Sign up to my newsletter for the free story.
->
-> **[Get the free story here →](your-link)**
+> <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.25rem;">
+> <div style="flex: 0 0 110px; max-width: 100%;">
+> <img src="/assets/img/count_vladisivic_cover.jpg" alt="The Hockenspier Chronicles – Case #1: Count Vladisivic book cover" style="width: 100%; height: auto; border-radius: 6px; border: 1px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.45);">
+> </div>
+> <div style="flex: 1 1 240px;">
+> <p style="margin-top: 0;"><strong>Free Short Story: The Hockenspier Chronicles - Count Vladisivic</strong></p>
+> <p>A 537-year-old vampire finds a grey hair and ends up going through a mid-life crisis before eventually seeking professional help.</p>
+> <p>Sign up to my newsletter for the free story.</p>
+> <p style="margin-bottom: 0;"><strong><a href="your-link">Get the free story here →</a></strong></p>
+> </div>
+> </div>
 
 <hr style="margin: 2.5rem 0;">
 
