@@ -14,12 +14,13 @@ I'm an author and musician based in Teesside, North East England. I write comedi
 ### What books has Andy Marron written?
 My current and upcoming fiction projects include:
 - ***The Hockenspier Chronicles – Case #1: Count Vladisivic*** - a free urban fantasy comedy short story about a 537-year-old vampire navigating a full-blown mid-life crisis with the help of a supernatural therapist.
-- ***Diary of a Failed Colonist*** - an upcoming comedic sci-fi novel (releasing **2027**) following Ed Thompson after he crash-lands on Planet 47-B with a budget-supermarket inventory and an unseen critic judging his every move.
+- ***Diary of a Failed Colonist*** - an upcoming comedic sci-fi novel (releasing **2027**) following Ed Thompson after he crash-lands on Planet 47-B with a budget-supermarket inventory and an unlikely critic judging his every move.
 - ***Calderwick Series*** - I am also writing a three-part series based on a forensic detective in a magical world.
 <br />
 <br />
 ### How do I get the free short story *The Hockenspier Chronicles – Case #1: Count Vladisivic*?
 You can grab your free digital copy of *The Hockenspier Chronicles – Case #1: Count Vladisivic* by signing up via the reader magnet link on the [home page](/) or the [books page](/books/). Once you sign up, it's delivered straight to your device via BookFunnel so you can read it on Kindle, Kobo, Apple Books, or your phone.
+<br />
 <br />
 ### When is *Diary of a Failed Colonist* coming out?
 *Diary of a Failed Colonist* is currently in progress and scheduled for release in **2027**. If you want to be the first to hear about cover reveals, early excerpts, and the exact launch date, join the mailing list on the [contact page](/contact/).
